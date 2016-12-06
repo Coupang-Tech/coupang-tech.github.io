@@ -7,7 +7,7 @@ title: ÄíÆÎ ±â¼ú Ã¤¿ë ºí·Î±×
 subtitle: Coupang Developer's Recruiting Hub
 description: Blog to share, spread valuable knowledge for all!
 author: Coupang
-language: default
+language: ko
 timezone: Asia/Seoul
 
 # URL
@@ -70,7 +70,7 @@ theme: newlandscape
 deploy: 
   type: git
   repo: https://github.com/Coupang-Tech/coupang-tech.github.io.git
-  branch: master
+  branch: gh-pages
 
 # Disqus comments
 disqus_shortname: Coupang-Tech
