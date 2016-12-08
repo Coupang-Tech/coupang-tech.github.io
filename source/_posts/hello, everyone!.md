@@ -1,9 +1,14 @@
 ---
 title: Hello, everyone!
 date: 2016-12-01 11:26:00
-tags: #Hello, #쿠팡, #기술블로그, #첫포스트
+tags: 
+- Hello 
+- 쿠팡 
+- 기술블로그 
+- 첫포스트
 categories: Get started!
 comments: true
+languages: ko
 ---
 
 안녕하세요, 쿠팡 기술블로그입니다.
