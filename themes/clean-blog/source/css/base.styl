@@ -1,8 +1,9 @@
+@import url(http://fonts.googleapis.com/earlyaccess/nanumgothic.css);
 @import "variables.styl"
 @import "mixins.styl"
 
 body
-  @extend .serif
+  @extend .nanum
   font-size 20px
   color gray-dark
 
@@ -15,7 +16,7 @@ p, li
     text-decoration underline
 
 h1, h2, h3, h4, h5, h6
-  @extend .sans-serif
+  @extend .nanum
   font-weight 800
 
 a
@@ -131,7 +132,7 @@ hr.small
       margin 10px 0 0
     @media only screen and (min-width: 768px)
       h1
-        font-size 80px
+        font-size 60px
   .post-heading
     h1
       font-size 35px
