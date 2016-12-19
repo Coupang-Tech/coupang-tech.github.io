@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://coupang-tech.github.io/"/>
-  <updated>2016-12-08T06:55:59.089Z</updated>
+  <updated>2016-12-19T02:00:32.744Z</updated>
   <id>https://coupang-tech.github.io/</id>
   
   <author>
@@ -20,7 +20,7 @@
     <link href="https://coupang-tech.github.io/2016/12/06/Wanted%20%EC%B1%84%EC%9A%A9%20%ED%96%89%EC%82%AC/"/>
     <id>https://coupang-tech.github.io/2016/12/06/Wanted 채용 행사/</id>
     <published>2016-12-06T01:34:00.000Z</published>
-    <updated>2016-12-08T06:55:59.089Z</updated>
+    <updated>2016-12-19T02:00:32.744Z</updated>
     
     <content type="html"><![CDATA[<p>안녕하세요, </p>
 <p>GO개발자 채용 담당자 리즈 입니다.</p>
@@ -32,22 +32,21 @@
 <p>참가자 패널 소개 시간이었고, 스타트업 관계자 분들의 회사 소개/ 스타트업이란? 등에 대한 내용을 공유하는 시간이었습니다.</p>
 <p>팀장님의 1분 스피치 <img src="https://mail.google.com/mail/e/1f3a4" alt="🎤"></p>
 <p>21시에 있을 쿠팡 pitch session에 올 수 있도록 인상깊은 스피치를 해주셨습니다.</p>
-<p><em>“ 왜 쿠팡인지 궁금하신 분,</em></p>
-<p><em>왜 쿠팡에서 1000여명의 개발자가 필요한지 궁금하신 분</em></p>
-<p><em>21시에 뵙겠습니다”</em></p>
+<blockquote>
+<p>왜 쿠팡인지 궁금하신 분,<br>왜 쿠팡에서 1000여명의 개발자가 필요한지 궁금하신 분.<br><br>21시에 뵙겠습니다.</p>
+</blockquote>
 <p>그리고 채용부스에서 열일중이신 우리 케인즈님 <img src="https://mail.google.com/mail/e/1f603" alt="😃"></p>
 <p><strong>21시 시작된 Coupang pitch session (약 60명 참여)</strong></p>
 <p>쿠팡 패밀리 페스티벌에서 쓰였던 왜, 쿠팡인지에 대한 설명 중</p>
-<p><em>“성장한 기업은 많고 그 기업에서 근무도 할 수 있지만,</em></p>
-<p><em>지금 이 시대에서 이 만큼 성장할/ 성장한 회사가 또 있을까요.</em> </p>
-<p><em>성장을 함께 지켜보며 이루고, 힘께 로켓을 탄다는 것은</em></p>
-<p><em>쉽게 할 수 있는 경험이 아닙니다.”</em> </p>
+<blockquote>
+<p>성장한 기업은 많고 그 기업에서 근무도 할 수 있지만,<br>지금 이 시대에서 이 만큼 성장한 회사가 또 있을까요.<br><br>성장을 함께 지켜보며 이루고, 힘께 로켓을 탄다는 것은<br>쉽게 할 수 있는 경험이 아닙니다.</p>
+</blockquote>
 <p>Kevin님 이후에는 CS webservice tribe TTL이신 브라운님께서</p>
 <p>개발자 개발환경 및 쿠팡은 어떠한 개발자를 원하는지, Q&amp;A 세션을 진행해주었습니다.</p>
 <p>“ 좋은 엔지니어라고 하는건, 주어진 일을 단순히 잘하는 사람이 아니라고 생각해요.*</p>
-<p><em>왜 이것을 개발해하고, 이 일에 어떠한 impact이 있고, 이것을 측정해서</em></p>
-<p><em>어떻게 발전 시킬 수 있는 지. 스스로 생각하고 결정할 수 있는 엔지니어가 좋은 엔지니어라고 생각합니다.</em></p>
-<p><em>쿠팡은, 그런 엔지니어가 필요합니다.”</em></p>
+<blockquote>
+<p>왜 이것을 개발해야하고, 이 일에 어떠한 impact이 있고, 이것을 측정해서<br>어떻게 발전 시킬 수 있는 지. 스스로 생각하고 결정할 수 있는 엔지니어가 좋은 엔지니어라고 생각합니다.<br><br>쿠팡은, 그런 엔지니어가 필요합니다.</p>
+</blockquote>
 <p>열정적인 피치를 마치고 더 부스 협찬의 네트워킹 시간을 끝으로 마무리 하였습니다 =)</p>
 <p>Tech 파트, Kevin님 그리고 도움 주신 GO팀 분들 감사합니다 =)</p>
 <p>추후에 또 채용 행사 다녀오게 되면 또 공유 드릴게요!</p>
@@ -82,7 +81,7 @@
     <link href="https://coupang-tech.github.io/2016/12/01/hello,%20everyone!/"/>
     <id>https://coupang-tech.github.io/2016/12/01/hello, everyone!/</id>
     <published>2016-12-01T02:26:00.000Z</published>
-    <updated>2016-12-08T06:55:59.091Z</updated>
+    <updated>2016-12-19T02:00:32.744Z</updated>
     
     <content type="html"><![CDATA[<p>안녕하세요, 쿠팡 기술블로그입니다.</p>
 <p>쿠팡의 기술적 발전에 관심이 많은 개발자분들과 소통하기 위한 창구로서 기술 블로그를 개설, 운영하게 되었습니다.</p>
