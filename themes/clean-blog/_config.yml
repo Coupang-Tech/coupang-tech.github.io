@@ -2,6 +2,7 @@
 menu:
   Home: /
   Archives: /archives
+  Recruiting: http://www.coupang.com/np/jobs
   Github:
     url: https://github.com/Coupang-Tech
     icon: github
@@ -18,7 +19,7 @@ default_post_title: Untitled
 # Comments. Choose one by filling up the information
 comments:
   # Disqus comments
-  disqus_shortname:
+  disqus_shortname: Coupang-Tech
   # Facebook comments
   facebook:
     appid:
@@ -35,10 +36,10 @@ addthis:
 favicon:
 
 # Social Accounts
-twitter_url:
+twitter_url: https://twitter.com/coupang
 twitter_handle:
-facebook_url:
+facebook_url: https://www.facebook.com/coupang.recruit
 github_url: https://github.com/Coupang-Tech
 gitlab_url:
-linkedin_url:
-mailto:
+linkedin_url: https://www.linkedin.com/jobs/search?f_C=2824374&locationType=Y
+mailto: recruit@coupang.com
