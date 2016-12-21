@@ -9,7 +9,7 @@
   <id>https://coupang-tech.github.io/</id>
   
   <author>
-    <name>Coupang</name>
+    <name>Coupang-Tech</name>
     
   </author>
   
@@ -17,8 +17,8 @@
   
   <entry>
     <title>Wanted 채용 행사</title>
-    <link href="https://coupang-tech.github.io/2016/12/06/Wanted%20%EC%B1%84%EC%9A%A9%20%ED%96%89%EC%82%AC/"/>
-    <id>https://coupang-tech.github.io/2016/12/06/Wanted 채용 행사/</id>
+    <link href="https://coupang-tech.github.io/2016/12/06/Wanted-%EC%B1%84%EC%9A%A9-%ED%96%89%EC%82%AC/"/>
+    <id>https://coupang-tech.github.io/2016/12/06/Wanted-채용-행사/</id>
     <published>2016-12-06T01:34:00.000Z</published>
     <updated>2016-12-19T02:00:32.744Z</updated>
     
@@ -78,8 +78,8 @@
   
   <entry>
     <title>Hello, everyone!</title>
-    <link href="https://coupang-tech.github.io/2016/12/01/hello,%20everyone!/"/>
-    <id>https://coupang-tech.github.io/2016/12/01/hello, everyone!/</id>
+    <link href="https://coupang-tech.github.io/2016/12/01/hello-everyone/"/>
+    <id>https://coupang-tech.github.io/2016/12/01/hello-everyone/</id>
     <published>2016-12-01T02:26:00.000Z</published>
     <updated>2016-12-19T02:00:32.744Z</updated>
     
@@ -101,11 +101,11 @@
       <category term="Get started!" scheme="https://coupang-tech.github.io/categories/Get-started/"/>
     
     
+      <category term="Hello" scheme="https://coupang-tech.github.io/tags/Hello/"/>
+    
       <category term="쿠팡" scheme="https://coupang-tech.github.io/tags/%EC%BF%A0%ED%8C%A1/"/>
     
       <category term="기술블로그" scheme="https://coupang-tech.github.io/tags/%EA%B8%B0%EC%88%A0%EB%B8%94%EB%A1%9C%EA%B7%B8/"/>
-    
-      <category term="Hello" scheme="https://coupang-tech.github.io/tags/Hello/"/>
     
       <category term="첫포스트" scheme="https://coupang-tech.github.io/tags/%EC%B2%AB%ED%8F%AC%EC%8A%A4%ED%8A%B8/"/>
     
