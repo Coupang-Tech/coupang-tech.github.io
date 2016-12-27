@@ -66,11 +66,11 @@
       <category term="Event" scheme="https://coupang-tech.github.io/categories/Recruit/Event/"/>
     
     
+      <category term="Event" scheme="https://coupang-tech.github.io/tags/Event/"/>
+    
       <category term="쿠팡" scheme="https://coupang-tech.github.io/tags/%EC%BF%A0%ED%8C%A1/"/>
     
       <category term="기술블로그" scheme="https://coupang-tech.github.io/tags/%EA%B8%B0%EC%88%A0%EB%B8%94%EB%A1%9C%EA%B7%B8/"/>
-    
-      <category term="Event" scheme="https://coupang-tech.github.io/tags/Event/"/>
     
       <category term="Wanted" scheme="https://coupang-tech.github.io/tags/Wanted/"/>
     
@@ -107,13 +107,13 @@
       <category term="Positions" scheme="https://coupang-tech.github.io/categories/Coupang-Tech/Positions/"/>
     
     
-      <category term="Coupang-Tech" scheme="https://coupang-tech.github.io/tags/Coupang-Tech/"/>
-    
-      <category term="Hello" scheme="https://coupang-tech.github.io/tags/Hello/"/>
-    
       <category term="쿠팡" scheme="https://coupang-tech.github.io/tags/%EC%BF%A0%ED%8C%A1/"/>
     
       <category term="기술블로그" scheme="https://coupang-tech.github.io/tags/%EA%B8%B0%EC%88%A0%EB%B8%94%EB%A1%9C%EA%B7%B8/"/>
+    
+      <category term="Coupang-Tech" scheme="https://coupang-tech.github.io/tags/Coupang-Tech/"/>
+    
+      <category term="Hello" scheme="https://coupang-tech.github.io/tags/Hello/"/>
     
       <category term="첫포스트" scheme="https://coupang-tech.github.io/tags/%EC%B2%AB%ED%8F%AC%EC%8A%A4%ED%8A%B8/"/>
     
