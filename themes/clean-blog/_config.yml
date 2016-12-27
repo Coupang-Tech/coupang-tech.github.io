@@ -1,11 +1,10 @@
 # Header
 menu:
-  Home: /
   Archives: /archives
-  Recruiting: http://www.coupang.com/np/jobs
-  Github:
-    url: https://github.com/Coupang-Tech
-    icon: github
+  Coupang-Tech: categories/Coupang-Tech
+  Positions: categories/Positions
+  Recruit: categories/Recruit
+  Event: categories/Event
 
 # Title on top left of menu. Leave empty to use main blog title
 menu_title: Home
@@ -14,7 +13,7 @@ menu_title: Home
 index_cover: /img/home-bg.jpg
 
 # Default post title
-default_post_title: Untitled
+default_post_title: :year-:month-:day-:new title
 
 # Comments. Choose one by filling up the information
 comments:
@@ -36,10 +35,9 @@ addthis:
 favicon:
 
 # Social Accounts
-twitter_url: https://twitter.com/coupang
+twitter_url:
 twitter_handle:
 facebook_url: https://www.facebook.com/coupang.recruit
-github_url: https://github.com/Coupang-Tech
-gitlab_url:
+recruit_url: http://www.coupang.com/np/jobs
 linkedin_url: https://www.linkedin.com/jobs/search?f_C=2824374&locationType=Y
 mailto: recruit@coupang.com

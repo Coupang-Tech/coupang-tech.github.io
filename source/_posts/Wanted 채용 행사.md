@@ -3,12 +3,15 @@ title: Wanted 채용 행사
 subtitle: "11월 10일 목요일 진행되었던 원티드 개발자 채용행사를 성황리에 마쳤습니다"
 date: 2016-12-06 10:34:00
 tags:
+- Event
 - 쿠팡
 - 기술블로그
 - Wanted
 - 채용행사
 - 구글캠퍼스서울
-categories: Recruit
+categories:
+- Recruit
+- Event
 comments: true
 ---
 

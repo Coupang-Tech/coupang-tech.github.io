@@ -3,13 +3,15 @@ title: Hello, everyone!
 subtitle: "안녕하세요, 쿠팡 기술블로그입니다."
 date: 2016-12-01 11:26:00
 tags:
+- Coupang-Tech
 - Hello
 - 쿠팡
 - 기술블로그
 - 첫포스트
-categories: Get started!
+categories:
+- Coupang-Tech
+- Positions
 comments: true
-languages: ko
 ---
 
 안녕하세요, 쿠팡 기술블로그입니다.
