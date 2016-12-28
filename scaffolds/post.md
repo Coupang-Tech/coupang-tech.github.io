@@ -9,5 +9,3 @@ tags:
 -
 comments: true
 ---
-
-### Related posts

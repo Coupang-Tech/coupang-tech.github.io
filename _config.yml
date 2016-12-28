@@ -75,6 +75,3 @@ deploy:
   type: git
   repo: https://github.com/Coupang-Tech/coupang-tech.github.io.git
   branch: master
-
-# Disqus comments
-disqus_shortname: Coupang-Tech
