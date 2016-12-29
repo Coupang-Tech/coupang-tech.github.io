@@ -4,6 +4,7 @@ author: Coupang-Tech
 categories:
   - Recruit
 tags:
+  - 쿠팡
   - GO Tech
   - 개발자
   - UI
