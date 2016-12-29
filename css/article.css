@@ -167,8 +167,3 @@ pre .clojure .title {
 pre .deletion {
   color: #dc322f;
 }
-pre .related-posts-item-abstract {
-  overflow: hidden;
-  white-space: nowrap;
-  text-overflow: ellipsis; /* ends with '...' of abstract */
-}
