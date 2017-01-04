@@ -14,7 +14,7 @@ tags:
   - Javascript
 comments: true
 date: 2016-12-28 13:16:13
-subtitle:
+subtitle: 쿠팡의 Global Operation 조직에서 UI 개발자분들을 모십니다.
 ---
 
 # Coupang Global Operation Technology UI Developer
