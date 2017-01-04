@@ -48,4 +48,4 @@ _E-commerce 에서 주문을 한 뒤 벌어지는 상황에 대해서 호기심�
 
 
 **Phone:** 02-6150-4248 ｜ **Fax:** 02-6150-5017
-**E-mail:** <GO_TECH@coupang.com>
+**E-mail:** <GOTECH@coupang.com>
