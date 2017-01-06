@@ -29,7 +29,7 @@ comments:
 google_analytics:
 
 # Addthis ID
-addthis:
+addthis: GOTECH@coupang.com
 
 # set your own favicon
 favicon: /img/Favicon.png
