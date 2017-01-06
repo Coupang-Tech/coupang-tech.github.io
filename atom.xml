@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://coupang-tech.github.io/"/>
-  <updated>2017-01-04T05:46:10.002Z</updated>
+  <updated>2017-01-06T01:56:02.890Z</updated>
   <id>https://coupang-tech.github.io/</id>
   
   <author>
@@ -14,6 +14,46 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Test1</title>
+    <link href="https://coupang-tech.github.io/2017/01/06/Test1/"/>
+    <id>https://coupang-tech.github.io/2017/01/06/Test1/</id>
+    <published>2017-01-06T01:56:02.000Z</published>
+    <updated>2017-01-06T01:56:02.890Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>시험판 포스트</title>
+    <link href="https://coupang-tech.github.io/2017/01/06/Test-post/"/>
+    <id>https://coupang-tech.github.io/2017/01/06/Test-post/</id>
+    <published>2017-01-06T01:49:17.000Z</published>
+    <updated>2017-01-06T02:01:39.504Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="야-임마"><a href="#야-임마" class="headerlink" title="야 임마"></a>야 임마</h1><h2 id="뭐-임마"><a href="#뭐-임마" class="headerlink" title="뭐 임마"></a>뭐 임마</h2><p>이ㅏㅓ니ㅏ어ㅣㅏㅓ니</p>
+<p><img src="image.jpg" alt="이미지"></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;야-임마&quot;&gt;&lt;a href=&quot;#야-임마&quot; class=&quot;headerlink&quot; title=&quot;야 임마&quot;&gt;&lt;/a&gt;야 임마&lt;/h1&gt;&lt;h2 id=&quot;뭐-임마&quot;&gt;&lt;a href=&quot;#뭐-임마&quot; class=&quot;headerlink&quot; title=&quot;뭐 임마&quot;&gt;&lt;/a
+    
+    </summary>
+    
+      <category term="What We Do" scheme="https://coupang-tech.github.io/categories/What-We-Do/"/>
+    
+      <category term="Event" scheme="https://coupang-tech.github.io/categories/What-We-Do/Event/"/>
+    
+    
+      <category term="시험판" scheme="https://coupang-tech.github.io/tags/%EC%8B%9C%ED%97%98%ED%8C%90/"/>
+    
+  </entry>
   
   <entry>
     <title>Global Operation - UI Developer</title>
@@ -43,7 +83,7 @@
 <p>위와 같은 경험과 실력을 갖춘 분들이 쿠팡과 함께하시길 기원합니다.<br>본인께서 지원하지 않으시더라도 주변에 좋은 개발자 분들에게 소식 알려주시면 감사 드리겠습니다. 상세한 Job Description 확인과 지원은 아래의 링크를 통해 부탁 드립니다.</p>
 <p><a href="https://boards.greenhouse.io/coupang2/jobs/260405?t=wj6iyx#.WGM9OFWLRhF" target="_blank" rel="external">UI Developer (Global Operations Technology)</a></p>
 <p>채용 관련 문의 있으시면 아래의 연락처로 편하게 연락 주십시오.<br>감사합니다.</p>
-<p><strong>Phone:</strong> 02-6150-4248 ｜ <strong>Fax:</strong> 02-6150-5017<br><strong>E-mail:</strong> <a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#71;&#x4f;&#84;&#69;&#67;&#72;&#64;&#99;&#x6f;&#117;&#x70;&#x61;&#x6e;&#x67;&#x2e;&#99;&#111;&#109;">&#71;&#x4f;&#84;&#69;&#67;&#72;&#64;&#99;&#x6f;&#117;&#x70;&#x61;&#x6e;&#x67;&#x2e;&#99;&#111;&#109;</a></p>
+<p><strong>Phone:</strong> 02-6150-4248 ｜ <strong>Fax:</strong> 02-6150-5017<br><strong>E-mail:</strong> <a href="&#109;&#97;&#105;&#108;&#116;&#x6f;&#58;&#71;&#x4f;&#x54;&#x45;&#67;&#x48;&#64;&#99;&#111;&#117;&#x70;&#x61;&#x6e;&#x67;&#46;&#x63;&#x6f;&#109;">&#71;&#x4f;&#x54;&#x45;&#67;&#x48;&#64;&#99;&#111;&#117;&#x70;&#x61;&#x6e;&#x67;&#46;&#x63;&#x6f;&#109;</a></p>
 ]]></content>
     
     <summary type="html">
