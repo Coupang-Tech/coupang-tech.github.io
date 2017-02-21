@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://coupang-tech.github.io/"/>
-  <updated>2017-01-12T09:35:42.922Z</updated>
+  <updated>2017-01-16T08:10:25.120Z</updated>
   <id>https://coupang-tech.github.io/</id>
   
   <author>
@@ -20,7 +20,7 @@
     <link href="https://coupang-tech.github.io/2017/01/12/Coupang-Global-Operation-Technology/"/>
     <id>https://coupang-tech.github.io/2017/01/12/Coupang-Global-Operation-Technology/</id>
     <published>2017-01-12T09:25:04.000Z</published>
-    <updated>2017-01-12T09:35:42.922Z</updated>
+    <updated>2017-01-16T08:10:25.120Z</updated>
     
     <content type="html"><![CDATA[<h1 id="Global-Operation-Technology"><a href="#Global-Operation-Technology" class="headerlink" title="Global Operation Technology:"></a><strong>Global Operation Technology:</strong></h1><p>eCommerce에서 주문을 한 뒤 벌어지는 상황에 대해서 호기심을 가져보신 적이 있나요?</p>
 <p>Global Operation Technology는 상품을 고객에게 지연 없이 전달 될 수 있도록 하는 조직입니다. 매일 최첨단 소프트웨어 기술을 이용해 고객의 주문을 받고 상품을 어느 창고에서 출고 시킬지, 포장을 하나의 박스 또는 여러 개로 나눌 것인지, 어떤 배송 루트를 선택하고 어떻게 고객에게 배송 상태를 보여줄지 결정하는 시스템과 서비스를 개발 합니다.</p>
@@ -46,6 +46,14 @@
       <category term="Coupang-Tech" scheme="https://coupang-tech.github.io/tags/Coupang-Tech/"/>
     
       <category term="GO" scheme="https://coupang-tech.github.io/tags/GO/"/>
+    
+      <category term="CS" scheme="https://coupang-tech.github.io/tags/CS/"/>
+    
+      <category term="Trans" scheme="https://coupang-tech.github.io/tags/Trans/"/>
+    
+      <category term="SCM" scheme="https://coupang-tech.github.io/tags/SCM/"/>
+    
+      <category term="FC" scheme="https://coupang-tech.github.io/tags/FC/"/>
     
   </entry>
   
@@ -77,7 +85,7 @@
 <p>위와 같은 경험과 실력을 갖춘 분들이 쿠팡과 함께하시길 기원합니다.<br>본인께서 지원하지 않으시더라도 주변에 좋은 개발자 분들에게 소식 알려주시면 감사 드리겠습니다. 상세한 Job Description 확인과 지원은 아래의 링크를 통해 부탁 드립니다.</p>
 <p><a href="https://boards.greenhouse.io/coupang2/jobs/260405?t=wj6iyx#.WGM9OFWLRhF" target="_blank" rel="external">UI Developer (Global Operations Technology)</a></p>
 <p>채용 관련 문의 있으시면 아래의 연락처로 편하게 연락 주십시오.<br>감사합니다.</p>
-<p><strong>Phone:</strong> 02-6150-4248 ｜ <strong>Fax:</strong> 02-6150-5017<br><strong>E-mail:</strong> <a href="&#109;&#97;&#105;&#x6c;&#116;&#111;&#58;&#x47;&#79;&#x54;&#x45;&#x43;&#72;&#x40;&#99;&#x6f;&#x75;&#112;&#x61;&#x6e;&#103;&#46;&#99;&#x6f;&#x6d;">&#x47;&#79;&#x54;&#x45;&#x43;&#72;&#x40;&#99;&#x6f;&#x75;&#112;&#x61;&#x6e;&#103;&#46;&#99;&#x6f;&#x6d;</a></p>
+<p><strong>Phone:</strong> 02-6150-4248 ｜ <strong>Fax:</strong> 02-6150-5017<br><strong>E-mail:</strong> <a href="&#x6d;&#97;&#x69;&#x6c;&#116;&#x6f;&#58;&#71;&#79;&#x54;&#69;&#67;&#72;&#64;&#x63;&#111;&#x75;&#112;&#97;&#110;&#x67;&#46;&#x63;&#x6f;&#109;">&#71;&#79;&#x54;&#69;&#67;&#72;&#64;&#x63;&#111;&#x75;&#112;&#97;&#110;&#x67;&#46;&#x63;&#x6f;&#109;</a></p>
 ]]></content>
     
     <summary type="html">
@@ -112,9 +120,9 @@
     <link href="https://coupang-tech.github.io/2016/12/28/Wanted-%EC%B1%84%EC%9A%A9-%ED%96%89%EC%82%AC/"/>
     <id>https://coupang-tech.github.io/2016/12/28/Wanted-채용-행사/</id>
     <published>2016-12-28T01:07:37.000Z</published>
-    <updated>2017-01-12T09:23:46.091Z</updated>
+    <updated>2017-01-16T07:51:15.121Z</updated>
     
-    <content type="html"><![CDATA[<p>안녕하세요,<br>GO개발자 채용 담당자 리즈 입니다.</p>
+    <content type="html"><![CDATA[<p>안녕하세요,<br>GO개발자 채용 담당자입니다.</p>
 <p>11월 10일 목요일 진행되었던 원티드 개발자 채용행사를 성황리에 마쳤습니다 :)<br>원티드Wanted라는 채용사이트에서 주최한 행사이며 약 12개의 스타트업이 참가하였으며, 각 30분간의 pitch session, 1분 speech, 채용 부스, 네트워킹 파티로 나누어 진행되었습니다.</p>
 <p>다 함께 하진 못하였지만 그 순간들 공유 드리니, 참고 부탁드립니다</p>
 <div align="center"><img src="IMG_2925.JPG" alt="행사 팜플릿"></div>
@@ -129,8 +137,8 @@
 <p><strong><em>왜 쿠팡인지 궁금하신 분,<br>왜 쿠팡에서 1000여명의 개발자가 필요한지 궁금하신 분.<br>21시에 뵙겠습니다.</em></strong></p>
 </blockquote>
 <p><img src="IMG_2881.JPG" alt="사람많다"></p>
-<p><img src="IMG_2896.JPG" alt="열일하시는 케인즈님"></p>
-<p>그리고 채용부스에서 열일중이신 우리 케인즈님</p>
+<p><img src="IMG_2896.JPG" alt="열일하는 GO TECH"></p>
+<p>그리고 채용부스에서 열일중이신 우리 GO TECH 채용팀!</p>
 <p><strong>21시 시작된 Coupang pitch session (약 60명 참여)</strong></p>
 <p><img src="IMG_2911.JPG" alt="피치에도 사람많다"></p>
 <p><img src="IMG_2927.JPG" alt="왜 쿠팡인가"></p>
@@ -149,19 +157,19 @@
     
     <summary type="html">
     
-      &lt;p&gt;안녕하세요,&lt;br&gt;GO개발자 채용 담당자 리즈 입니다.&lt;/p&gt;
-&lt;p&gt;11월 10일 목요일 진행되었던 원티드 개발자 채용행사를 성황리에 마쳤습니다 :)&lt;br&gt;원티드Wanted라는 채용사이트에서 주최한 행사이며 약 12개의 스타트업이 참가하였으며, 
+      &lt;p&gt;안녕하세요,&lt;br&gt;GO개발자 채용 담당자입니다.&lt;/p&gt;
+&lt;p&gt;11월 10일 목요일 진행되었던 원티드 개발자 채용행사를 성황리에 마쳤습니다 :)&lt;br&gt;원티드Wanted라는 채용사이트에서 주최한 행사이며 약 12개의 스타트업이 참가하였으며, 각 30
     
     </summary>
     
       <category term="Event" scheme="https://coupang-tech.github.io/categories/Event/"/>
     
     
-      <category term="Event" scheme="https://coupang-tech.github.io/tags/Event/"/>
-    
       <category term="쿠팡" scheme="https://coupang-tech.github.io/tags/%EC%BF%A0%ED%8C%A1/"/>
     
       <category term="기술블로그" scheme="https://coupang-tech.github.io/tags/%EA%B8%B0%EC%88%A0%EB%B8%94%EB%A1%9C%EA%B7%B8/"/>
+    
+      <category term="Event" scheme="https://coupang-tech.github.io/tags/Event/"/>
     
       <category term="Wanted" scheme="https://coupang-tech.github.io/tags/Wanted/"/>
     
@@ -198,29 +206,13 @@
     
       <category term="쿠팡" scheme="https://coupang-tech.github.io/tags/%EC%BF%A0%ED%8C%A1/"/>
     
-      <category term="기술블로그" scheme="https://coupang-tech.github.io/tags/%EA%B8%B0%EC%88%A0%EB%B8%94%EB%A1%9C%EA%B7%B8/"/>
-    
       <category term="Coupang-Tech" scheme="https://coupang-tech.github.io/tags/Coupang-Tech/"/>
     
       <category term="Hello" scheme="https://coupang-tech.github.io/tags/Hello/"/>
     
+      <category term="기술블로그" scheme="https://coupang-tech.github.io/tags/%EA%B8%B0%EC%88%A0%EB%B8%94%EB%A1%9C%EA%B7%B8/"/>
+    
       <category term="첫포스트" scheme="https://coupang-tech.github.io/tags/%EC%B2%AB%ED%8F%AC%EC%8A%A4%ED%8A%B8/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Test</title>
-    <link href="https://coupang-tech.github.io/2016/12/27/Test/"/>
-    <id>https://coupang-tech.github.io/2016/12/27/Test/</id>
-    <published>2016-12-27T09:13:00.000Z</published>
-    <updated>2017-01-04T05:46:08.152Z</updated>
-    
-    <summary type="html">
-    
-    </summary>
-    
-      <category term="What We Do" scheme="https://coupang-tech.github.io/categories/What-We-Do/"/>
-    
     
   </entry>
   
