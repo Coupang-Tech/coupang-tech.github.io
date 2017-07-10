@@ -18,8 +18,11 @@ subtitle: "2017년 2월 21일 화요일, 개발자분들을 위한 Coupang Sprin
 안녕하세요, 
 GO개발자 채용 담당자입니다.
 
-Coupang Spring은 GO 내부 개발자 지인분들을 초정하여 회사 소개 및 기술 세션을 제공하고, 이를 통한 ​기술 공유와 네트워킹 목적의 행사였습니다.
+<div align="center">![Coupang Spring](Coupang Spring.jpeg)</div>
 
+아직은 쌀쌀하지만 점점 봄이 다가오는 요즘! Coupang에서 사용하는 Java Framework이자 따스한 봄을 맞이하는 의미로 **Coupang Spring** 을 준비했습니다!
+
+Coupang Spring은 GO 내부 개발자 지인분들을 초정하여 회사 소개 및 기술 세션을 제공하고, 이를 통한 ​기술 공유와 네트워킹 목적의 행사였습니다.
 또한, Coupang 개발 문화를 지인분들에게 소개하여 더 많은 개발자분들께 Coupang이 어떤 Mission과 Vision을 달성하려는지 알리는 자리이기도 했습니다.
 
 2월에 걸쳐 사전 인원 조사, 참가 신청을 모두 완료하였고 지인 64분 직원 44분 총 108명이 참여하셨습니다.
@@ -36,7 +39,6 @@ Coupang Spring은 GO 내부 개발자 지인분들을 초정하여 회사 소개
 
 ​행사 순서는 Kevin 님의 Coupang 및 GO 조직 소개, ​이어서 Jace, Keaton 님의 Technical Sessions, ​Networking Time 으로 진행되었습니다.
 
-
 <div align="center">![Ice breaking](IMG_4348.JPG)</div>
 ​Kevin 님의 Ice breaking
 ​
@@ -44,23 +46,24 @@ Coupang Spring은 GO 내부 개발자 지인분들을 초정하여 회사 소개
 ​Jace 님의 Event sourcing & CQRS​ Session
 
 <div align="center">![Spock Test Framework Session](IMG_4352.JPG)</div>
-​Keaton님의 Spock Test Framework Session
+​Keaton님의 Spock Test Framework Session까지 모두 유익한 시간이었습니다!
 
 ​
 그리고 8:45분부터 시작된 Dinner with Beer!
+
 <div align="center">![Dinner with Beer 1](IMG_4356.JPG)</div>
 <div align="center">![Dinner with Beer 2](IMG_4357.JPG)</div>
 <div align="center">![Dinner with Beer 3](IMG_4360.JPG)</div>
-
+아유 먹음직스러워라~
 
 <div align="center">![Networking Time](IMG_4364.JPG)</div>
 ​Networking Time에는 자유롭게 Technical Session에 대한 이야기,
-쿠팡 개발자 문화, 기술 스택, 조직 소개 등 미처 다루지 못했던 많은 이야기들을 할 수 있었습니다.
-(맥주와 함께!)
+쿠팡 개발자 문화, 기술 스택, 조직 소개 등 미처 다루지 못했던 많은 이야기들을 할 수 있었습니다. (맥주와 함께!)
 
 
 ​그리고 빠질 수 없는 Lucky Draw까지!
 Kevin님의 열성적인 진행으로 재미있게 마무리 되었습니다.
+
 <div align="center">![Lucky Draw 1](IMG_4369.JPG)</div>
 <div align="center">![Lucky Draw 2](IMG_4377.JPG)</div>
 
